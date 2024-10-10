@@ -1,7 +1,7 @@
 ---
 icon: fas fa-stream
 order: 1
-title: CV
+title:  
 
 ---
 
@@ -21,7 +21,8 @@ title: CV
 
 <br>
 
-#### **Work Experience**
+<h2 style="color: skyblue">Work Experience</h2>
+
 <hr>
  
  <center>
@@ -96,4 +97,38 @@ title: CV
  - *Network Setup*
  - *Network Control*
  - *Searching valuable apps and make a contract for company*
+<hr>
 
+ <h2 style="color: orange">Education</h2>
+
+
+<hr>
+
+ <center>
+ <h2>Eurasia University/Avrasya University</h2>
+ 
+ <h4><i>The Faculty of Information technologies</i></h4>
+ </center>
+
+<hr>
+
+ <h2 style="color: red">Key skills</h2>
+
+
+<hr>
+
+
+<center>
+<strong> Skills </strong>
+</center>
+- <i>C++ / C# / Python</i>
+- <i>Unreal Engine / Unity Engine</i>
+- <i>Photoshop / Blender 3D / Substence Painter</i>
+- <i>Linux / Windows / Android / IOS </i>
+
+<center>
+<strong> Languages </strong>
+</center>
+- <i> Turkish - Native </i>
+- <i> English - C1 Advanced</i>
+- <i> Russian - B2 Upper Intermediate </i>
