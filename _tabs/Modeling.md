@@ -112,42 +112,42 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 8</div>
-    <img src="/assets/images/Room.webp" style="width:100%">
+    <img src="/assets/images/Room.webp" style="width:100%" alt="Room">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 8</div>
-    <img src="/assets/images/Imp.webp" style="width:100%">
+    <img src="/assets/images/Imp.webp" style="width:100%" alt="Imp">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 8</div>
-    <img src="/assets/images/Building.webp" style="width:100%">
+    <img src="/assets/images/Building.webp" style="width:100%" alt="Building">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 8</div>
-    <img src="/assets/images/Orc.webp" style="width:100%">
+    <img src="/assets/images/Orc.webp" style="width:100%" alt="Orc">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 8</div>
-    <img src="/assets/images/Gorehowl.png" style="width:100%">
+    <img src="/assets/images/Gorehowl.png" style="width:100%" alt="Gorehowl">
   </div>
   
   <div class="mySlides">
     <div class="numbertext">6 / 8</div>
-    <img src="/assets/images/Cleaver.webp" style="width:100%">
+    <img src="/assets/images/Cleaver.webp" style="width:100%" alt="Cleaver">
   </div>
    
    <div class="mySlides">
     <div class="numbertext">7 / 8</div>
-    <img src="/assets/images/Horn.webp" style="width:100%">
+    <img src="/assets/images/Horn.webp" style="width:100%" alt="Horn">
   </div>
     
    <div class="mySlides">
     <div class="numbertext">8 / 8</div>
-    <img src="/assets/images/mechaRobot.webp" style="width:100%">
+    <img src="/assets/images/mechaRobot.webp" style="width:100%" alt="Robot">
   </div>
   
     

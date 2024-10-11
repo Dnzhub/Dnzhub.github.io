@@ -114,27 +114,27 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 5</div>
-    <img src="/assets/images/LandScape.webp" style="width:100%" alt="ls">
+    <img src="/assets/images/LandScape.webp" style="width:100%" alt="landscape">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 5</div>
-    <img src="/assets/images/DarklandSecond.webp" style="width:100%">
+    <img src="/assets/images/DarklandSecond.webp" style="width:100%" alt="DarkLand2">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 5</div>
-    <img src="/assets/images/DarkLand.webp" style="width:100%">
+    <img src="/assets/images/DarkLand.webp" style="width:100%" alt="Darkland">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 5</div>
-    <img src="/assets/images/DarkLandScape.webp" style="width:100%">
+    <img src="/assets/images/DarkLandScape.webp" style="width:100%" alt="Darklandscape>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 5</div>
-    <img src="/assets/images/DarkForest Concept.webp" style="width:100%">
+    <img src="/assets/images/DarkForest Concept.webp" style="width:100%" alt="DarkForest">
   </div>
    
     
