@@ -1,10 +1,15 @@
 ---
 icon: fas fa-tags
-order: 2
+order: 3
 title: Modeling
 ---
 
 
+
+
+
+
+<!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -51,7 +56,6 @@ img {
   border-radius: 0 3px 3px 0;
   user-select: none;
   -webkit-user-select: none;
-   background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Position the "next button" to the right */
@@ -63,7 +67,7 @@ img {
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover,
 .next:hover {
-  background-color: rgba(0, 0, 0, 1);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Number text (1/3 etc) */
@@ -92,7 +96,7 @@ img {
 /* Six columns side by side */
 .column {
   float: left;
-  width: 12.50%;
+  width: 16.66%;
 }
 
 /* Add a transparency effect for thumnbail images */
@@ -104,88 +108,26 @@ img {
 .demo:hover {
   opacity: 1;
 }
-
 </style>
 <body>
 
+<h2 style="text-align:center">Slideshow Gallery</h2>
 
 <div class="container">
   <div class="mySlides">
-    <div class="numbertext">1 / 8</div>
-    <img src="/assets/images/Room.webp" style="width:100%" alt="Room" />
+    <img src="/assets/images/Cleaver.webp" style="width:100%" alt="c">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 8</div>
-    <img src="/assets/images/Imp.webp" style="width:100%" alt="Imp" />
+    <img src="/assets/images/Building.webp" style="width:100%" alt="b">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">3 / 8</div>
-    <img src="/assets/images/Building.webp" style="width:100%" alt="Building" />
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext">4 / 8</div>
-    <img src="/assets/images/Orc.webp" style="width:100%" alt="Orc" />
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">5 / 8</div>
-    <img src="/assets/images/Gorehowl.png" style="width:100%" alt="Gorehowl" />
-  </div>
-  
-  <div class="mySlides">
-    <div class="numbertext">6 / 8</div>
-    <img src="/assets/images/Cleaver.webp" style="width:100%" alt="Cleaver" />
-  </div>
-   
-   <div class="mySlides">
-    <div class="numbertext">7 / 8</div>
-    <img src="/assets/images/Horn.webp" style="width:100%" alt="Horn" />
-   </div>
-    
-   <div class="mySlides">
-    <div class="numbertext">8 / 8</div>
-    <img src="/assets/images/mechaRobot.webp" style="width:100%" alt="Robot" />
-   </div>
-  
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
+
+
   
-
-  <div class="caption-container">
-  </div>
-
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Room.webp" style="width:100%"   onclick="currentSlide(1)" alt="Room" />
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Imp.webp" style="width:100%"   onclick="currentSlide(2)" alt="Imp" />
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Building.webp" style="width:100%" onclick="currentSlide(3)" alt="Building" />
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Orc.webp" style="width:100%" onclick="currentSlide(4)" alt="Orc" />
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Gorehowl.png" style="width:100%"  onclick="currentSlide(5)" alt="Gorehowl" />
-    </div>    
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Cleaver.webp" style="width:100%"  onclick="currentSlide(6)" alt="Cleaver" />
-    </div>    
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Horn.webp" style="width:100%"  onclick="currentSlide(7)" alt="Horn" />
-    </div>      
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/mechaRobot.webp" style="width:100%"  onclick="currentSlide(8)" alt="Robot"/>
-    </div> 
-    
-    
-  </div>
 </div>
 
 <script>
@@ -204,7 +146,7 @@ function showSlides(n) {
   let i;
   let slides = document.getElementsByClassName("mySlides");
   let dots = document.getElementsByClassName("demo");
-  //let captionText = document.getElementById("caption");
+  let captionText = document.getElementById("caption");
   if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
@@ -215,19 +157,9 @@ function showSlides(n) {
   }
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
-  //captionText.innerHTML = dots[slideIndex-1].alt;
+  captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
     
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
