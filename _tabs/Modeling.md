@@ -122,7 +122,10 @@ img {
     <img src="/assets/images/Building.webp" style="width:100%" alt="b">
   </div>
 
-  
+    
+  <span class="prev" onclick="plusSlides(-1)">❮</span>
+  <span class="next" onclick="plusSlides(1)">❯</span>
+
 
   
 </div>
