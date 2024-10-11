@@ -115,19 +115,66 @@ img {
 
 <div class="container">
   <div class="mySlides">
-    <img src="/assets/images/Cleaver.webp" style="width:100%" alt="c">
+    <img src="/assets/images/Cleaver.webp" style="width:100%" alt="cleaver">
   </div>
 
   <div class="mySlides">
-    <img src="/assets/images/Building.webp" style="width:100%" alt="b">
+    <img src="/assets/images/Gorehowl.png" style="width:100%" alt="axe">
   </div>
 
+  <div class="mySlides">
+    <img src="/assets/images/Horn.webp" style="width:100%" alt="horn">
+  </div>
+    
+  <div class="mySlides">
+    <img src="/assets/images/Building.webp" style="width:100%" alt="building">
+  </div>
+
+  <div class="mySlides">
+    <img src="/assets/images/Imp.webp" style="width:100%" alt="imp">
+  </div>
+    
+  <div class="mySlides">
+    <img src="/assets/images/Orc.webp" style="width:100%" alt="orc">
+  </div>
+  <div class="mySlides">
+    <img src="/assets/images/Room.webp" style="width:100%" alt="room">
+  </div>
+  <div class="mySlides">
+    <img src="/assets/images/mechaRobot.webp" style="width:100%" alt="robot">
+  </div>
     
   <span class="prev" onclick="plusSlides(-1)">❮</span>
   <span class="next" onclick="plusSlides(1)">❯</span>
 
 
-  
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Cleaver.webp" style="width:100%" onclick="currentSlide(1)" alt="cleaver">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Gorehowl.png" style="width:100%" onclick="currentSlide(2)" alt="axe">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Horn.webp" style="width:100%" onclick="currentSlide(3)" alt="horn">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Building.webp" style="width:100%" onclick="currentSlide(4)" alt="building">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Imp.webp" style="width:100%" onclick="currentSlide(5)" alt="imp">
+    </div>    
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Orc.webp" style="width:100%" onclick="currentSlide(6)" alt="orc">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Room.webp" style="width:100%" onclick="currentSlide(6)" alt="room">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/mechaRobot.webp" style="width:100%" onclick="currentSlide(6)" alt="mecha">
+    </div>
+  </div>
 </div>
 
 <script>
