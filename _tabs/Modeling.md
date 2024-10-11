@@ -9,7 +9,6 @@ title: Modeling
 
 
 
-<!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -111,7 +110,6 @@ img {
 </style>
 <body>
 
-<h2 style="text-align:center">Slideshow Gallery</h2>
 
 <div class="container">
   <div class="mySlides">
