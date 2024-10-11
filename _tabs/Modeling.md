@@ -177,12 +177,7 @@ img {
     <div class="column">
       <img class="demo cursor" src="/assets/images/Cleaver.webp" style="width:100%"  onclick="currentSlide(6)" alt="Cleaver">
     </div>    
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/Horn.webp" style="width:100%"  onclick="currentSlide(7)" alt="Horn">
-    </div>      
-    <div class="column">
-      <img class="demo cursor" src="/assets/images/mechaRobot.webp" style="width:100%"  onclick="currentSlide(8)" alt="Robot">
-    </div> 
+    
     
     
   </div>
