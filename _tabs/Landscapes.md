@@ -129,7 +129,7 @@ img {
     
   <div class="mySlides">
     <div class="numbertext">4 / 5</div>
-    <img src="/assets/images/DarkLandScape.webp" style="width:100%" alt="Darklandscape>
+    <img src="/assets/images/DarkLandScape.webp" style="width:100%" alt="Darklandscape">
   </div>
 
   <div class="mySlides">
@@ -140,9 +140,8 @@ img {
     
   
     
-  <a class="prev" href="" onclick="plusSlides(-1)">❮</a>
-  <a class="next" href="" onclick="plusSlides(1)">❯</a>
-
+  <a class="prev"  onclick="plusSlides(-1)">❮</a>
+  <a class="next"  onclick="plusSlides(1)">❯</a>
   <div class="caption-container">
   </div>
 

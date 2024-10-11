@@ -143,16 +143,16 @@ img {
    <div class="mySlides">
     <div class="numbertext">7 / 8</div>
     <img src="/assets/images/Horn.webp" style="width:100%" alt="Horn">
-  </div>
+   </div>
     
    <div class="mySlides">
     <div class="numbertext">8 / 8</div>
     <img src="/assets/images/mechaRobot.webp" style="width:100%" alt="Robot">
-  </div>
+   </div>
   
     
-  <a class="prev" href="" onclick="plusSlides(-1)">❮</a>
-  <a class="next" href="" onclick="plusSlides(1)">❯</a>
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
   
 
   <div class="caption-container">
@@ -177,7 +177,12 @@ img {
     <div class="column">
       <img class="demo cursor" src="/assets/images/Cleaver.webp" style="width:100%"  onclick="currentSlide(6)" alt="Cleaver">
     </div>    
-    
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/Horn.webp" style="width:100%"  onclick="currentSlide(7)" alt="Horn">
+    </div>      
+    <div class="column">
+      <img class="demo cursor" src="/assets/images/mechaRobot.webp" style="width:100%"  onclick="currentSlide(8)" alt="Robot">
+    </div> 
     
     
   </div>
