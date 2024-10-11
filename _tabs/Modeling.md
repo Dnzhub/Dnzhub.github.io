@@ -153,6 +153,7 @@ img {
     
   <a class="prev" href="" onclick="plusSlides(-1)">❮</a>
   <a class="next" href="" onclick="plusSlides(1)">❯</a>
+  <a href="">button</a>
 
   <div class="caption-container">
   </div>
