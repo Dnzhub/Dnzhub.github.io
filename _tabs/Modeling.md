@@ -153,7 +153,7 @@ img {
     
   <a class="prev" href="" onclick="plusSlides(-1)">❮</a>
   <a class="next" href="" onclick="plusSlides(1)">❯</a>
-  <a href="">button</a>
+  
 
   <div class="caption-container">
   </div>
@@ -175,13 +175,13 @@ img {
       <img class="demo cursor" src="/assets/images/Gorehowl.png" style="width:100%"  onclick="currentSlide(5)" alt="Gorehowl">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="/assets/images/Cleaver.webp" style="width:100%"  onclick="currentSlide(5)" alt="Cleaver">
+      <img class="demo cursor" src="/assets/images/Cleaver.webp" style="width:100%"  onclick="currentSlide(6)" alt="Cleaver">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="/assets/images/Horn.webp" style="width:100%"  onclick="currentSlide(5)" alt="Horn">
+      <img class="demo cursor" src="/assets/images/Horn.webp" style="width:100%"  onclick="currentSlide(7)" alt="Horn">
     </div>      
     <div class="column">
-      <img class="demo cursor" src="/assets/images/mechaRobot.webp" style="width:100%"  onclick="currentSlide(5)" alt="Robot">
+      <img class="demo cursor" src="/assets/images/mechaRobot.webp" style="width:100%"  onclick="currentSlide(8)" alt="Robot">
     </div> 
     
     
