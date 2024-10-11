@@ -107,7 +107,7 @@ title: Projects
 <a href="https://youtu.be/Yw8_OFXGFfo"><img  src="/assets/images/angry birds.png" alt="Arcade"></a>
 </center>
 
-- <i>Simply Angry birds clone demo</i>
+- <i>Simply Angry birds clone</i>
 
 <center>
 <a href="https://youtu.be/Yw8_OFXGFfo"><strong>Watch The Video</strong></a>
