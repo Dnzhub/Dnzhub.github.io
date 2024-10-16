@@ -18,7 +18,9 @@ title: CV
 <hr>
 
 #### About Me
-*I have about 4,5 years of experience in Unity - Unreal and a total of 8 years of experience in IT in various positions. Making games is one of my biggest passion. I love playing games*
+*I'm game developer with experience in programming and game design.Proficient in C# and C++, with hands-on expertise in both the Unity and Unreal Engine environments.My focus is on creating immersive, high-quality games, from concept to deployment, with a keen interest in both the technical and creative aspects of game development.*
+
+ *Driven by a love for both developing and playing games  I thrive on building engaging and innovative interactive experiences. Adept at collaborating with designers, artists, and sound engineers to deliver seamless and dynamic game experiences.*
 
 <br>
 
