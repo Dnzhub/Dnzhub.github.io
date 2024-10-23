@@ -4,8 +4,9 @@ icon: fas fa-info-circle
 order: 4
 title: Projects
 ---
- 
+ <center>
  <h2 style="color: skyblue">Multiplayer Third Person Shooter</h2>
+</center>
 
 <center>
 <a href="https://youtu.be/IqR4DBtvUx8"><img  src="/assets/images/MPShooter.png" alt="Multiplayer Shooter"></a>
