@@ -4,6 +4,17 @@ icon: fas fa-info-circle
 order: 4
 title: Projects
 ---
+ 
+ <h2 style="color: skyblue">Multiplayer Third Person Shooter</h2>
+
+<center>
+<a href="https://youtu.be/IqR4DBtvUx8"><img  src="/assets/images/MPShooter.png" alt="Multiplayer Shooter"></a>
+</center>
+
+<center>
+ a fast-paced multiplayer third-person shooter where quick reflexes and strategic play are key to survival! Players battle it out in dynamic arenas, scavenging for powerful weapons and game-changing buffs scattered throughout the environment. With a variety of weapon types and special abilities at your disposal, outwit, outmaneuver, and eliminate your opponents in intense, fast-paced matches.
+</center>
+<hr>
 
  <center>
  <h2 style="color: skyblue">City Simulation</h2>
