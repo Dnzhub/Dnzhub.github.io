@@ -45,7 +45,7 @@ title: CV
   <center>
  <h2 style="color: skyblue">SOMBER STUDIO</h2>
  <h3 style="color: skyblue">Generalist Programmer</h3>
- <p>2023 - 2024</p>
+ <p>2022 - 2024</p>
  </center>
 
  - *Implementation of gameplay mechanics*
