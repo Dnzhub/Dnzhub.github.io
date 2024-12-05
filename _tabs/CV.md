@@ -90,17 +90,6 @@ title: CV
 
 <hr>
 
-  <center>
- <h2 style="color: skyblue">LUMOS HOTELS & PROPERTY</h2>
- <h3 style="color: skyblue">IT Advisor</h3>
- <p>2016 - 2018</p>
- </center>
-
- - *Information processing*
- - *Network Setup*
- - *Network Control*
- - *Searching valuable apps and make a contract for company*
-<hr>
 
  <h2 style="color: orange">Education</h2>
 
