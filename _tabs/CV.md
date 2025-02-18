@@ -113,10 +113,10 @@ title: CV
 <center>
 <strong> Skills </strong>
 </center>
-- <i>C++ / C# / Python</i>
-- <i>Unreal Engine / Unity Engine</i>
-- <i>Photoshop / Blender 3D / Substence Painter</i>
-- <i>Linux / Windows / Android / IOS </i>
+- <i>HTML/JSS/Javascript/ Python</i>
+- <i>Unreal Engine C++ / Unity Engine C#</i>
+- <i>Photoshop / Blender 3D /</i>
+- <i>Linux / Windows </i>
 
 <center>
 <strong> Languages </strong>
