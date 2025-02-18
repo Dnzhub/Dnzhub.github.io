@@ -113,7 +113,7 @@ title: CV
 <center>
 <strong> Skills </strong>
 </center>
-- <i>HTML/JSS/Javascript/ Python</i>
+- <i>HTML /CSS /Javascript / Python</i>
 - <i>Unreal Engine C++ / Unity Engine C#</i>
 - <i>Photoshop / Blender 3D /</i>
 - <i>Linux / Windows </i>
