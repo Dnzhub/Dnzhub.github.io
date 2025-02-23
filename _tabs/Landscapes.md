@@ -8,7 +8,6 @@ title: Landscapes
 
 
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   font-family: Arial;
