@@ -18,9 +18,10 @@ title: CV
 <hr>
 
 #### About Me
-*I'm game developer with experience in programming and game design.Proficient in C# and C++, with hands-on expertise in both the Unity and Unreal Engine environments.My focus is on creating immersive, high-quality games, from concept to deployment, with a keen interest in both the technical and creative aspects of game development.*
-
- *Driven by a love for both developing and playing games  I thrive on building engaging and innovative interactive experiences. Adept at collaborating with designers, artists, and sound engineers to deliver seamless and dynamic game experiences.*
+*I am a software developer. I have implemented Horror-Adventure, hyper casual and simulation projects as a game developer.*
+*I was engaged in programming game mechanics and logic of game behavior in the Unity/Unreal game engine, creating and optimizing scripts for game mechanics, interfaces, animations and interactions, testing and debugging code to ensure stable game operation, as well as reading other people's Legacy code, refactoring it. I used C#, JavaScript, Python. I have experience Windows and Linux. In the future, I see my development in the field of cybersecurity.*
+*I would like to develop my skills and knowledge in the field of developing the architecture of new solutions. I am interested in tasks related to the use of Linux, Windows, Visual Studio, Python, C#, JS, HTML, CSS, Git, Git-Hub, Jira. I am constantly improving my knowledge to quickly in a rapidly changing technological landscape.*
+*My portfolio is below the link:*
 
 <br>
 
@@ -31,14 +32,13 @@ title: CV
  <center>
  <h2 style="color: skyblue">Freelance</h2>
  <h3 style="color: skyblue">Game Developer</h3>
- <p>2020 - Till now</p>
  </center>
 
- - *Character controller mechanism*
- - *AI systems*
- - *Example games for University student's project*
- - *Development of RPG game elements*
- - *Development of mobile games*
+ - *Advanced character controller mechanism that includes inverse kinematic, climbing parkour etc. Unity Engine/C#*
+ - *Artificial intelligence for NPC interactions and behaviours with use of "behaviour tree", "state machine", "pathfinding algorithm". Unity Engine/C# - Unreal Engine/C++ - Blueprint*
+ - *ARPG - RPG Basis -> Skill, attribute and Inventory system, Character controller, animation and VFX implementation. Enemy AI that similiar to diablo like games enemies*
+ - *Mobile hyper casual games*
+ 
 
 <hr>
 
@@ -48,10 +48,13 @@ title: CV
  <p>2022 - 2024</p>
  </center>
 
- - *Implementation of gameplay mechanics*
- - *Implementation of motion matching system* 
- - *Integration of animations, effects and UI*
- - *Plan and build, project structure*
+ - *Unity Engine C# / Odin Inspector / Motion Matching / Inverse Kinematics*
+ - *Movement system with motion matching from stratch* 
+ - *State machine design pattern*
+ - *Physic based inverse kinematics implementation*
+ - *Asset management and usage, design of code architecture*
+ - *Animation event design and UI integration*
+ - *Gameplay code and graphical optimization*
  <hr>
 
   <center>
@@ -60,9 +63,12 @@ title: CV
  <p>2021 - 2022</p>
  </center>
 
- - *Digital presentation simulation for investors*
- - *Neutral NPC AI implementation*
- 
+ - *Unity Engine C# / Zenject / Odin Inspector*
+ - *World interaction (Grabbing objects, teleport around, opening-closing rooms, starting conversation with NPC)*
+ - *Node based dialogue system*
+ - *UI integration*
+ - *Pathfinding algorithm for NPC characters*
+
  <hr>
 
   <center>
@@ -71,8 +77,10 @@ title: CV
  <p>2020 - 2021 (Part-Time)</p>
  </center>
 
-- *Development of simulation for construction comp.*
-- *3D Design and digital architecture*
+- *Unreal Engine Blueprint / Blender / Substence painter / Adobe Photoshop*
+- *Level designing for construction presentation*
+- *Movement, driving, flying systems*
+- *Creation of 3D interior architecture and environment*
 
 
 
@@ -84,8 +92,11 @@ title: CV
  <p>2018 - 2020 (Part-Time)</p>
  </center>
 
- - *Implementation of game features and gameplay mechanics*
- - *Integration of animations, effects*
+ - *Unity Engine C# / Android / IOS / Dotween / Odin Inspector / Zenject*
+ - *Hyper casual games from stratch*
+ - *Gameplay code optimization for mobile platform*
+ - *Asset management*
+ - *UI and animation integration*
 
 
 <hr>
@@ -106,15 +117,15 @@ title: CV
 
  <h2 style="color: red">Key skills</h2>
 
-
 <hr>
+
 
 
 <center>
 <strong> Skills </strong>
 </center>
 - <i>HTML /CSS /Javascript / Python</i>
-- <i>Unreal Engine C++ / Unity Engine C#</i>
+- <i>Unreal Engine C++ - Blueprint / Unity Engine C#</i>
 - <i>Photoshop / Blender 3D /</i>
 - <i>Linux / Windows </i>
 
