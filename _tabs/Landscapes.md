@@ -105,6 +105,26 @@ img {
 .demo:hover {
   opacity: 1;
 }
+
+.site-title
+{
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 1.75rem;
+    line-height: 1.2;
+    letter-spacing: .25px;
+    margin-top: 1.25rem;
+    margin-bottom: .5rem;
+    width: fit-content;
+    color: var(--site-title-color);
+}
+.site-subtitle{
+  font-size: 95%;
+    color: var(--site-subtitle-color);
+    margin-top: .25rem;
+    word-spacing: 1px;
+    -webkit-user-select: none;
+}
 </style>
 <body>
 
