@@ -34,7 +34,7 @@ title: CV
  </center>
 
  - *Advanced character controller mechanism that includes inverse kinematic, climbing parkour etc. Unity Engine/C#*
- - *Artificial intelligence for NPC interactions and behaviours with use of "behaviour tree", "state machine", "pathfinding algorithm". Unity Engine/C# - Unreal Engine/C++ - Blueprint*
+ - *Artificial intelligence for NPC interactions and behaviours with use of behaviour tree, state machine, pathfinding algorithm. Unity Engine/C# - Unreal Engine/C++ - Blueprint*
  - *ARPG - RPG Basis -> Skill, attribute and Inventory system, Character controller, animation and VFX implementation. Enemy AI that similiar to diablo like games enemies*
  - *Mobile hyper casual games*
  
