@@ -10,14 +10,14 @@ title: Modeling
 
 
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  font-family: Arial;
   margin: 0;
 }
 
 * {
-  box-sizing: border-box;
+ 
 }
 
 img {
