@@ -19,7 +19,7 @@ title: CV
 
 #### About Me
 *I am a software developer. I have implemented Horror-Adventure, hyper casual and simulation projects as a game developer.*
-*I was engaged in programming game mechanics and logic of game behavior in the Unity/Unreal game engine, creating and optimizing scripts for game mechanics, interfaces, animations and interactions, testing and debugging code to ensure stable game operation, as well as reading other people's Legacy code, refactoring it. I used C#, JavaScript, Python. I have experience Windows and Linux. In the future, I see my development in the field of cybersecurity.*
+*I was engaged in programming game mechanics and logic of game behavior in the Unity/Unreal game engine, creating and optimizing scripts for game mechanics, interfaces, animations and interactions, testing and debugging code to ensure stable game operation, as well as reading other people's Legacy code, refactoring it. I used C#, JavaScript, Python, C++. I have experience Windows and Linux. In the future, I see my development in the field of cybersecurity.*
 *I would like to develop my skills and knowledge in the field of developing the architecture of new solutions. I am interested in tasks related to the use of Linux, Windows, Visual Studio, Python, C#, JS, HTML, CSS, Git, Git-Hub, Jira. I am constantly improving my knowledge to quickly in a rapidly changing technological landscape.*
 *My portfolio is below the link:*
 
